@@ -21,6 +21,11 @@ namespace Week1_day2
             Console.WriteLine(number);
             Console.WriteLine(partialNum);
             Console.WriteLine(someNumber);
+
+            int jarrydAge = 29;
+            int danielAge = 32;
+            Console.WriteLine(jarrydAge != danielAge);
+
         }
     }
 }
